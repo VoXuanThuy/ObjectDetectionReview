@@ -3,16 +3,19 @@ This repository provides a up-to-date paper list about anchor assigment, samplin
 ## How to add new papers to this repository
 If you find a new paper that relates to anchor assignment, sampling methods as well as new trends in object detection. Please feel free to a pull request.
 ## News
+
 ## Table of Contents
 1. [Anchor Assignment Methods](#1)
-   1.1 [Hard Anchor Assignment](#1.1)
-   1.2 [Soft Anchor Assignment](#1.2)
+    1.1 [Hard Anchor Assignment](#1.1)
+    1.2 [Soft Anchor Assignment](#1.2)
 2. [Sampling Methods](#2)
-   2.1 [Hard Sampling](#2.1)
-   2.2 [Soft Sampling](#2.2)
+    2.1 [Hard Sampling](#2.1)
+    2.2 [Soft Sampling](#2.2)
 3. [Recent Trends in Object Detection](#3)
-   3.1 [Transformer-based Feature Extractor](#3.1)
-   3.2 [Transformer-based Detecrtion Head](#3.2)
+    3.1 [Transformer-based Feature Extractor](#3.1)
+    3.2 [Transformer-based Detecrtion Head](#3.2)
+
+
 ## 1. Anchor Assignment Methods <a name="1"></a>
 #### 1.1. Hard Anchor Assignment <a name="1.1"></a>
   - Focal Loss for Dense Object Detection, ICCV 2017. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
