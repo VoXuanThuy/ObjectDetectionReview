@@ -63,6 +63,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
   - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)
   - Focal Self-attention for Local-Global Interactions in Vision Transformers, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
+  - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
 
 ## Contact
 If you have question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
