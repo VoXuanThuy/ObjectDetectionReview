@@ -66,4 +66,4 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
 
 ## Contact
-If you have question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
+If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
