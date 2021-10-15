@@ -12,8 +12,8 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
     2.1 [Hard Sampling](#2.1)
     2.2 [Soft Sampling](#2.2)
 3. [Recent Trends in Object Detection](#3)
-    3.1 [Transformer-based Feature Extractor](#3.1)
-    3.2 [Transformer-based Detecrtion Head](#3.2)
+    3.1 [Transformer-based Detection Head](#3.1)
+    3.2 [Transformer-based Feature Extractor](#3.2)
 
 
 ## 1. Anchor Assignment Methods <a name="1"></a>
@@ -34,7 +34,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - YOLOX: Exceeding YOLO Series in 2021, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.08430.pdf)
   - TOOD: Task-aligned One-stage Object Detection, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.pdf)
 ## 2. Sampling Methods <a name="2"></a>
-#### 2.1. Hard Sampling Methods <a name="2.1"></a>
+#### 2.1. Hard Sampling <a name="2.1"></a>
   - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, CVPR 2014. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
   - Fast R-CNN, ICCV 2015. [[Paper]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
   - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NeurIPS 2015. [[Paper]](https://papers.nips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
@@ -42,7 +42,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Training Region-based Object Detectors with Online Hard Example Mining, CVPR 2016. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf)
   - Libra R-CNN: Towards Balanced Learning for Object Detection, CVPR 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Libra_R-CNN_Towards_Balanced_Learning_for_Object_Detection_CVPR_2019_paper.pdf)
   - Overlap Sampler for Region-Based Object Detection, WACV 2020. [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Overlap_Sampler_for_Region-Based_Object_Detection_WACV_2020_paper.pdf)
-#### 2.2. Soft Sampling Methods <a name="2.2"></a>
+#### 2.2. Soft Sampling <a name="2.2"></a>
   - Focal Loss for Dense Object Detection, ICCV 2017. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
   - Gradient Harmonized Single-stage Detector, AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.05181.pdf)
   - Prime Sample Attention in Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Prime_Sample_Attention_in_Object_Detection_CVPR_2020_paper.pdf)
