@@ -5,30 +5,15 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
 ## News
 
 ## Table of Contents
-1. [Anchor Assignment Methods](#1)
-    1.1 [Hard Anchor Assignment](#1.1)
-    1.2 [Soft Anchor Assignment](#1.2)
-2. [Sampling Methods](#2)
-    2.1 [Hard Sampling](#2.1)
-    2.2 [Soft Sampling](#2.2)
-3. [Recent Trends in Object Detection](#3)
-    3.1 [Transformer-based Detection Head](#3.1)
-    3.2 [Transformer-based Feature Extractor](#3.2)
-
-
-## Table of Contents
-1. [Detection pipeline](#1)  
-    1.1 [Proposal generation](#1.1)  
-    1.2 [Feature extraction](#1.2)   
-    1.3 [Proposal classification](#1.3)  
-    1.4 [Post processing](#1.4)  
-2. [Single-spectral pedestrian detection](#2)  
-    2.1 [Handcrafted features based pedestrian detection](#2.1)    
-    2.2 [Deep features based pedestrian detection](#2.2)  
-3. [Multispectral pedestrian detection](#3)  
-    3.1 [Deep feature fusion](#3.1)  
-    3.2 [Data processing](#3.2)  
-    3.3 [Domain adaptation](#3.3) 
+1. [Anchor Assignment Methods](#1)  
+    1.1 [Hard Anchor Assignment](#1.1)  
+    1.2 [Soft Anchor Assignment](#1.2)     
+2. [Sampling Methods](#2)  
+    2.1 [Hard Sampling](#2.1)    
+    2.2 [Soft Sampling](#2.2)  
+3. [Recent Trends in Object Detection](#3)  
+    3.1 [Transformer-based Detection Head](#3.1)  
+    3.2 [Transformer-based Feature Extractor](#3.2)  
 
 
 ## 1. Anchor Assignment Methods <a name="1"></a>
