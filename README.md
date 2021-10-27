@@ -33,6 +33,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - What Makes for End-to-End Object Detection?, ICML 2021. [[Paper]](http://proceedings.mlr.press/v139/sun21b/sun21b.pdf)
   - YOLOX: Exceeding YOLO Series in 2021, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.08430.pdf)
   - TOOD: Task-aligned One-stage Object Detection, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.pdf)
+  - Improving Object Detection by Label Assignment Distillation, WACV 2022. [[Paper]](Improving Object Detection by Label Assignment Distillation)
 ## 2. Sampling Methods <a name="2"></a>
 #### 2.1. Hard Sampling <a name="2.1"></a>
   - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, CVPR 2014. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
@@ -66,6 +67,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)
   - Focal Self-attention for Local-Global Interactions in Vision Transformers, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
   - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
+  - MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
 
 ## Contact
 If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
