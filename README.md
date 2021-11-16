@@ -25,6 +25,8 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
 #### 1.2. Soft Anchor Assignment <a name="1.2"></a>
   - FreeAnchor: Learning to Match Anchors for Visual Object Detection, NeurIPS 2019. [[Paper]](https://proceedings.neurips.cc/paper/2019/file/43ec517d68b6edd3015b3edc9a11367b-Paper.pdf)
   - Learning from Noisy Anchors for One-stage Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.pdf)
+  - Multiple Anchor Learning for Visual Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ke_Multiple_Anchor_Learning_for_Visual_Object_Detection_CVPR_2020_paper.pdf)
+  - AutoAssign: Differentiable Label Assignment for Dense Object Detection, ArXiv 2020. [[Paper]](https://arxiv.org/pdf/2007.03496.pdf)
   - Probabilistic Anchor Assignment with IoU Prediction for Object Detection, ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700358.pdf)
   - End-to-End Object Detection with Transformers, ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)
   - End-to-End Object Detection with Fully Convolutional Network, CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Object_Detection_With_Fully_Convolutional_Network_CVPR_2021_paper.pdf)
