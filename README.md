@@ -59,6 +59,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - PnP-DETR: Towards Efficient Visual Analysis with Transformers, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_PnP-DETR_Towards_Efficient_Visual_Analysis_With_Transformers_ICCV_2021_paper.pdf)
   - Dynamic DETR: End-to-End Object Detection with Dynamic Attention, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_Dynamic_DETR_End-to-End_Object_Detection_With_Dynamic_Attention_ICCV_2021_paper.pdf)
   - Rethinking Transformer-based Set Prediction for Object Detection, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.pdf)
+  - WB-DETR: Transformer-Based Detector Without Backbone, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.pdf)
   - ViDT: An Efficient and Effective Fully Transformer-based Object Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.03921.pdf)
   - Anchor DETR: Query Design for Transformer-Based Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2109.07107v1.pdf)
 #### 3.2. Transformer-based Feature Extractor <a name="3.2"></a>
