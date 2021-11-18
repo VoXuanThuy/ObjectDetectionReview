@@ -47,8 +47,11 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Overlap Sampler for Region-Based Object Detection, WACV 2020. [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Overlap_Sampler_for_Region-Based_Object_Detection_WACV_2020_paper.pdf)
 #### 2.2. Soft Sampling <a name="2.2"></a>
   - Focal Loss for Dense Object Detection, ICCV 2017. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
+  - Is Heuristic Sampling Necessary in Training Deep Object Detectors?, TIP 2021 . [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9526287)
   - Gradient Harmonized Single-stage Detector, AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.05181.pdf)
   - Prime Sample Attention in Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Prime_Sample_Attention_in_Object_Detection_CVPR_2020_paper.pdf)
+  - Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection, NeurIPS 2020. [[Paper]](https://arxiv.org/pdf/2006.04388.pdf)
+  - Learning a Unified Sample Weighting Network for Object Detection, CVPR 2020. [[Paper]] (https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_Learning_a_Unified_Sample_Weighting_Network_for_Object_Detection_CVPR_2020_paper.pdf)
   - Equalization Loss for Long-Tailed Object Recognition, CVPR 2020. [[Paper]](https://arxiv.org/pdf/2003.05176.pdf)
   - Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection, CVPR 2021. [[Paper]](https://arxiv.org/pdf/2012.08548.pdf)
   - VarifocalNet: An IoU-aware Dense Object Detector, CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_VarifocalNet_An_IoU-Aware_Dense_Object_Detector_CVPR_2021_paper.pdf)
