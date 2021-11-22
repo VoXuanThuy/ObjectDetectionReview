@@ -1,4 +1,5 @@
 ## Anchor Assignment and Sampling Heuristics in Deep Object Detection: A Review
+<p align="center"><img src="assets/network.png" width="750/></p>
 This repository provides a up-to-date paper list about anchor assigment, sampling heuristics and recent trends in object detection. This repository based on a problem-based taxonomy in the following paper: "Anchor Assignment and Sampling Heuristics in Deep Object Detection: A Review".
 ## How to add new papers to this repository
 If you find a new paper that relates to anchor assignment, sampling methods as well as new trends in object detection. Please feel free to make a pull request.
@@ -26,7 +27,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - FreeAnchor: Learning to Match Anchors for Visual Object Detection, NeurIPS 2019. [[Paper]](https://proceedings.neurips.cc/paper/2019/file/43ec517d68b6edd3015b3edc9a11367b-Paper.pdf)
   - Learning from Noisy Anchors for One-stage Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.pdf)
   - Multiple Anchor Learning for Visual Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ke_Multiple_Anchor_Learning_for_Visual_Object_Detection_CVPR_2020_paper.pdf)
-  - AutoAssign: Differentiable Label Assignment for Dense Object Detection, ArXiv 2020. [[Paper]](https://arxiv.org/pdf/2007.03496.pdf)
+  - AutoAssign: Differentiable Label Assignment for Dense Object Detection, arXiv 2020. [[Paper]](https://arxiv.org/pdf/2007.03496.pdf)
   - Probabilistic Anchor Assignment with IoU Prediction for Object Detection, ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700358.pdf)
   - End-to-End Object Detection with Transformers, ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)
   - End-to-End Object Detection with Fully Convolutional Network, CVPR 2021. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Object_Detection_With_Fully_Convolutional_Network_CVPR_2021_paper.pdf)
@@ -47,7 +48,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Overlap Sampler for Region-Based Object Detection, WACV 2020. [[Paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Overlap_Sampler_for_Region-Based_Object_Detection_WACV_2020_paper.pdf)
 #### 2.2. Soft Sampling <a name="2.2"></a>
   - Focal Loss for Dense Object Detection, ICCV 2017. [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
-  - Is Heuristic Sampling Necessary in Training Deep Object Detectors?, TIP 2021 . [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9526287)
+  - Is Heuristic Sampling Necessary in Training Deep Object Detectors?, TIP 2021. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9526287)
   - Gradient Harmonized Single-stage Detector, AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.05181.pdf)
   - Prime Sample Attention in Object Detection, CVPR 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_Prime_Sample_Attention_in_Object_Detection_CVPR_2020_paper.pdf)
   - Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection, NeurIPS 2020. [[Paper]](https://arxiv.org/pdf/2006.04388.pdf)
@@ -59,17 +60,23 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
 #### 3.1. Transformer-based Detection Head <a name="3.1"></a>
   - End-to-End Object Detection with Transformers, ECCV 2020. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)
   - Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICML 2021. [[Paper]](https://openreview.net/forum?id=gZ9hCDWe6ke)
+  - End-to-End Object Detection with Adaptive Clustering Transformer, BMVC 2021. [[Paper]](https://arxiv.org/pdf/2011.09315.pdf)
   - Fast Convergence of DETR with Spatially Modulated Co-Attention, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Fast_Convergence_of_DETR_With_Spatially_Modulated_Co-Attention_ICCV_2021_paper.pdf)
   - Conditional DETR for Fast Training Convergence, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf)
   - PnP-DETR: Towards Efficient Visual Analysis with Transformers, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_PnP-DETR_Towards_Efficient_Visual_Analysis_With_Transformers_ICCV_2021_paper.pdf)
   - Dynamic DETR: End-to-End Object Detection with Dynamic Attention, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_Dynamic_DETR_End-to-End_Object_Detection_With_Dynamic_Attention_ICCV_2021_paper.pdf)
   - Rethinking Transformer-based Set Prediction for Object Detection, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.pdf)
   - WB-DETR: Transformer-Based Detector Without Backbone, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.pdf)
+  - UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, ICCV 2021. [[Paper]](https://arxiv.org/pdf/2011.09094.pdf)
+  - Efficient DETR: Improving End-to-End Object Detector with Dense Prior, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
   - ViDT: An Efficient and Effective Fully Transformer-based Object Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.03921.pdf)
   - Anchor DETR: Query Design for Transformer-Based Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2109.07107v1.pdf)
+  - You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
 #### 3.2. Transformer-based Feature Extractor <a name="3.2"></a>
   - Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf)
+  - PVTv2: Improved Baselines with Pyramid Vision Transformer, arXiv 2021. [[Paper]](PVTv2: Improved Baselines with Pyramid Vision Transformer)
   - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
+  - Swin Transformer V2: Scaling Up Capacity and Resolution, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2111.09883.pdf)
   - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)
   - Focal Self-attention for Local-Global Interactions in Vision Transformers, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
   - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
