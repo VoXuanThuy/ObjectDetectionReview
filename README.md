@@ -72,6 +72,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - ViDT: An Efficient and Effective Fully Transformer-based Object Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.03921.pdf)
   - Anchor DETR: Query Design for Transformer-Based Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2109.07107v1.pdf)
   - You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
+  - Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2111.14330v1.pdf)
 #### 3.2. Transformer-based Feature Extractor <a name="3.2"></a>
   - Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf)
   - PVTv2: Improved Baselines with Pyramid Vision Transformer, arXiv 2021. [[Paper]](PVTv2: Improved Baselines with Pyramid Vision Transformer)
@@ -81,6 +82,9 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Focal Self-attention for Local-Global Interactions in Vision Transformers, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
   - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
   - MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
-
+  - Twins: Revisiting the Design of Spatial Attention in Vision Transformers, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf)
+  - ResT: An Efficient Transformer for Visual Recognition, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2105.13677.pdf)
+  - Transformer in Transformer, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)
+  
 ## Contact
 If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
