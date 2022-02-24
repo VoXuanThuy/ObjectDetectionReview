@@ -85,6 +85,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Twins: Revisiting the Design of Spatial Attention in Vision Transformers, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf)
   - ResT: An Efficient Transformer for Visual Recognition, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2105.13677.pdf)
   - Transformer in Transformer, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)
+  - Quadtree Attention for Vision Transformer, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2201.02767.pdf)
   
 ## Contact
 If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
