@@ -36,7 +36,9 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - What Makes for End-to-End Object Detection?, ICML 2021. [[Paper]](http://proceedings.mlr.press/v139/sun21b/sun21b.pdf)
   - YOLOX: Exceeding YOLO Series in 2021, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.08430.pdf)
   - TOOD: Task-aligned One-stage Object Detection, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.pdf)
+  - Mutual Supervision for Dense Object Detection, ICCV 2021. [[Paper]](https://arxiv.org/pdf/2109.05986.pdf)
   - Improving Object Detection by Label Assignment Distillation, WACV 2022. [[Paper]](https://arxiv.org/pdf/2108.10520.pdf)
+  - A Dual Weighting Label Assignment Scheme for Object Detection, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.09730.pdf)
 ## 2. Sampling Methods <a name="2"></a>
 #### 2.1. Hard Sampling <a name="2.1"></a>
   - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, CVPR 2014. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
@@ -69,23 +71,26 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - WB-DETR: Transformer-Based Detector Without Backbone, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.pdf)
   - UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, ICCV 2021. [[Paper]](https://arxiv.org/pdf/2011.09094.pdf)
   - Efficient DETR: Improving End-to-End Object Detector with Dense Prior, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
-  - ViDT: An Efficient and Effective Fully Transformer-based Object Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.03921.pdf)
-  - Anchor DETR: Query Design for Transformer-Based Detector, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2109.07107v1.pdf)
+  - ViDT: An Efficient and Effective Fully Transformer-based Object Detector, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2110.03921.pdf)
+  - Anchor DETR: Query Design for Transformer-Based Detector, AAAI 2022. [[Paper]](https://arxiv.org/pdf/2109.07107.pdf)
   - You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
-  - Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2111.14330v1.pdf)
+  - Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2111.14330.pdf)
+  - Accelerating DETR Convergence via Semantic-Aligned Matching, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.06883v1.pdf)
+  - DN-DETR: Accelerate DETR Training by Introducing Query DeNoising, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.01305.pdf)
 #### 3.2. Transformer-based Feature Extractor <a name="3.2"></a>
   - Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf)
-  - PVTv2: Improved Baselines with Pyramid Vision Transformer, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2106.13797.pdf)
+  - PVTv2: Improved Baselines with Pyramid Vision Transformer, CVMJ 2022. [[Paper]](https://arxiv.org/pdf/2106.13797.pdf)
   - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf)
   - Swin Transformer V2: Scaling Up Capacity and Resolution, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2111.09883.pdf)
   - Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.pdf)
   - Focal Self-attention for Local-Global Interactions in Vision Transformers, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
-  - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
-  - MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, arXiv 2021. [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
+  - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2107.00652.pdf)
+  - MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
   - Twins: Revisiting the Design of Spatial Attention in Vision Transformers, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf)
   - ResT: An Efficient Transformer for Visual Recognition, NeurIPS 2021. [[Paper]](https://arxiv.org/pdf/2105.13677.pdf)
   - Transformer in Transformer, NeurIPS 2021. [[Paper]](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)
   - Quadtree Attention for Vision Transformer, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2201.02767.pdf)
+  - MPViT: Multi-Path Vision Transformer for Dense Prediction, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2112.11010.pdf)
   
 ## Contact
 If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
