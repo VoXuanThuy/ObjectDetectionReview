@@ -77,6 +77,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, ICLR 2022. [[Paper]](https://arxiv.org/pdf/2111.14330.pdf)
   - Accelerating DETR Convergence via Semantic-Aligned Matching, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.06883v1.pdf)
   - DN-DETR: Accelerate DETR Training by Introducing Query DeNoising, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.01305.pdf)
+  - DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection, arXiv 2022. [[Paper]](https://arxiv.org/pdf/2203.03605v1.pdf)
 #### 3.2. Transformer-based Feature Extractor <a name="3.2"></a>
   - Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions, ICCV 2021. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Pyramid_Vision_Transformer_A_Versatile_Backbone_for_Dense_Prediction_Without_ICCV_2021_paper.pdf)
   - PVTv2: Improved Baselines with Pyramid Vision Transformer, CVMJ 2022. [[Paper]](https://arxiv.org/pdf/2106.13797.pdf)
