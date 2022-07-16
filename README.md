@@ -1,6 +1,6 @@
 ## A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection
 ![](assets/network.png)
-This repository provides a up-to-date paper list about anchor assigment, sampling heuristics and recent trends in object detection. This repository based on a problem-based taxonomy in the following paper: "A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection".
+This repository provides a up-to-date paper list about anchor assigment, sampling heuristics and recent trends in object detection. This repository based on a problem-based taxonomy in the following paper: "A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection"- [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S092523122200861X?via%3Dihub)
 ## How to add new papers to this repository
 If you find a new paper that relates to anchor assignment, sampling methods as well as new trends in object detection. Please feel free to make a pull request.
 ## News
@@ -95,4 +95,15 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - MPViT: Multi-Path Vision Transformer for Dense Prediction, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2112.11010.pdf)
   
 ## Contact
-If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr
+If you have any question, please contact Xuan-Thuy Vo, email: xthuy@islab.ulsan.ac.kr or cite my paper:
+```BibTeX
+@article{VO2022,
+title = {A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection},
+journal = {Neurocomputing},
+year = {2022},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2022.07.003},
+url = {https://www.sciencedirect.com/science/article/pii/S092523122200861X},
+author = {Xuan-Thuy Vo and Kang-Hyun Jo}
+}
+```
