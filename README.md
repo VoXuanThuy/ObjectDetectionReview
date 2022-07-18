@@ -39,6 +39,7 @@ If you find a new paper that relates to anchor assignment, sampling methods as w
   - Mutual Supervision for Dense Object Detection, ICCV 2021. [[Paper]](https://arxiv.org/pdf/2109.05986.pdf)
   - Improving Object Detection by Label Assignment Distillation, WACV 2022. [[Paper]](https://arxiv.org/pdf/2108.10520.pdf)
   - A Dual Weighting Label Assignment Scheme for Object Detection, CVPR 2022. [[Paper]](https://arxiv.org/pdf/2203.09730.pdf)
+  - ObjectBox: From Centers to Boxes for Anchor-Free Object Detection, ECCV 2022. [[Paper]](https://arxiv.org/pdf/2207.06985v1.pdf)
 ## 2. Sampling Methods <a name="2"></a>
 #### 2.1. Hard Sampling <a name="2.1"></a>
   - Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, CVPR 2014. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)
