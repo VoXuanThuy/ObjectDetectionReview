@@ -1,6 +1,7 @@
 ## A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection
 ![](assets/network.png)
 ![](assets/assignment.png)
+![](assets/transformer.png)
 This repository provides a up-to-date paper list about anchor assigment, sampling heuristics and recent trends in object detection. This repository based on a problem-based taxonomy in the following paper: "A Review on Anchor Assignment and Sampling Heuristics in Deep Learning-based Object Detection"- [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S092523122200861X?via%3Dihub)
 ## How to add new papers to this repository
 If you find a new paper that relates to anchor assignment, sampling methods as well as new trends in object detection. Please feel free to make a pull request.
